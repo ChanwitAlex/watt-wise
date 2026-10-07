@@ -1,0 +1,12 @@
+node_modules
+.next
+.env
+.env.*
+!.env.example
+data/.users.json
+*.tsbuildinfo
+next-env.d.ts
+__pycache__
+data/real/
+data/raw/meter*.csv
+data/raw/outage_log*.csv
